@@ -72,3 +72,8 @@ ClassicEditor
 ## License
 
 Licensed under the terms of [GNU General Public License Version 2 or later](http://www.gnu.org/licenses/gpl.html). For full details about the license, please check the `LICENSE.md` file.
+
+
+##compile
+npm run build
+ref (https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/installing-plugins.html)
