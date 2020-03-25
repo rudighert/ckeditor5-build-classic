@@ -1,3 +1,14 @@
+## To Update
+
+* [guide](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/development/custom-builds.html) for custom build
+* [plugins](https://ckeditor.com/docs/ckeditor5/latest/api/alignment.html) npm install --save @ckeditor/ckeditor5-alignment
+Finish
+```bash
+npm install --save @ckeditor/ckeditor5-alignment
+yarn run build
+```
+
+
 CKEditor 5 classic editor build
 ========================================
 
